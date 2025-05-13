@@ -12,4 +12,5 @@ O principal objetivo deste repositório é registrar meu progresso no aprendizad
 - Trabalhando com arquivos
 - Programação orientada a objetos (POO)
 
- ## 🚧 Em Desenvolvimento O repositório está em constante evolução, refletindo meu progresso nos estudos. Novos arquivos e projetos serão adicionados gradualmente.
+ # 🚧 Em Desenvolvimento 
+ O repositório está em constante evolução, refletindo meu progresso nos estudos. Novos arquivos e projetos serão adicionados gradualmente.
